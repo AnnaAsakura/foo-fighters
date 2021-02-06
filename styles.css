@@ -1,0 +1,302 @@
+*
+ {box-sizing: border-box;
+ }
+
+
+
+body {
+background-color: black;
+max-width: 100%;
+}
+
+
+
+.container {
+	transform: translate3d(0, 0, 0);
+}
+
+
+.band {
+	width: 52%;
+	height: auto;
+	opacity: 28%;
+	margin-left: 21%;
+	margin-top: 8%;
+	z-index: -1;
+	position: fixed;
+}
+
+
+
+.dave {
+	width: 24%;
+	height: auto;
+	margin-left: 14%;
+	margin-top: 25%;
+	position: absolute;
+}
+
+
+
+.daves {
+	width: 38%;
+	height: auto;
+	position: absolute;
+	margin-top: 18.5%;
+	margin-left: 9%;
+	display: inline;
+	opacity: 0;
+}
+
+
+.daves:hover {
+	width: 38%;
+	height: auto;
+	opacity: 1;
+	animation: infinite;
+}
+
+
+
+.red1 {
+	width: 10%;
+	height: auto;
+	margin-top: 14%;
+	margin-left: 33%;
+	position: absolute;
+}
+
+
+
+.pat {
+	width: 23.5%;
+	height: auto;
+	margin-top: 69%;
+	margin-left: 66%;
+	position: absolute;
+}
+
+
+
+
+.pats {
+	width: 38%;
+	height: auto;
+	position: absolute;
+	margin-top: 63%;
+	margin-left: 60%;
+	z-index: 2;
+	display: inline;
+	opacity: 0;
+}
+
+
+
+.pats:hover {
+	width: 38%;
+	height: auto;
+	opacity: 1;
+}
+
+
+
+.red2 {
+	width: 10%;
+	height: auto;
+	margin-top: 57%;
+	margin-left: 52%;
+	position: absolute;
+}
+
+
+
+.orange1 {
+	width: 10%;
+	height: auto;
+	margin-top: 69%;
+	margin-left: 8%;
+	position: absolute;
+
+}
+
+
+
+.taylor {
+	width: 24.8%;
+	height: auto;
+	margin-top: 97%;
+	margin-left: 5%;
+	position: absolute;
+}
+
+
+
+.taylors {
+	width: 38%;
+	height: auto;
+	margin-top: 92%;
+	margin-left: 2%;
+	position: absolute;
+	z-index: 2;
+	display: inline;
+	opacity: 0;
+}
+
+
+
+.taylors:hover {
+	width: 38%;
+	height: auto;
+	opacity: 1;
+}
+
+
+
+.blue1 {
+	width: 10%;
+	height: auto;
+	margin-top: 111%;
+	margin-left: 84%;
+	position: absolute;
+}
+
+
+
+.orange2 {
+	width: 10%;
+	height: auto;
+	margin-top: 130%;
+	margin-left: 55%;
+	position: absolute;
+}
+
+
+
+.nate {
+	width: 24.4%;
+	height: auto;
+	margin-top: 145%;
+	margin-left: 60%;
+	position: absolute;
+}
+
+
+
+
+.nates {
+	width: 38%;
+	height: auto;
+	margin-top: 139.5%;
+	margin-left: 54%;
+	position: absolute;
+	z-index: 2;
+	display: inline;
+	opacity: 0;
+}
+
+
+
+.nates:hover {
+	width: 38%;
+	height: auto;
+	opacity: 1;
+}
+
+
+
+.blue2 {
+	width: 10%;
+	height: auto;
+	margin-top: 140%;
+	margin-left: 12.5%;
+	position: absolute;
+}
+
+
+
+.chris {
+	width: 24%;
+	height: auto;
+	margin-top: 166%;
+	margin-left: 13%;
+	position: absolute;
+}
+
+
+
+.chriss {
+	width: 38%;
+	height: auto;
+	margin-top: 160%;
+	margin-left: 5%;
+	position: absolute;
+	z-index: 2;
+	display: inline;
+	opacity: 0;
+}
+
+
+
+
+.chriss:hover {
+	width: 38%;
+	height: auto;
+	opacity: 1;
+
+}
+
+
+
+.red3 {
+	width: 10%;
+	height: auto;
+	margin-top: 188%;
+	margin-left: 78%;
+	position: absolute;
+}
+
+
+
+.blue3 {
+	width: 10%;
+	height: auto;
+	margin-top: 209%;
+	margin-left: 7%;
+	padding-bottom: 15%;
+	position: absolute;
+}
+
+
+
+
+.red4 {
+	width: 10%;
+	height: auto;
+	margin-top: 153%;
+	margin-left: 40%;
+	position: absolute;
+}
+
+
+
+
+.blue4 {
+	width: 10%;
+	height: auto;
+	margin-top: 84%;
+	margin-left: 24%;
+	position: absolute;
+}
+
+
+
+.orange4 {
+	width: 10%;
+	height: auto;
+	margin-top: 35%;
+	margin-left: 68%;
+	position: absolute;
+}
+
+
+
