@@ -1,0 +1,94 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;}
+
+
+@font-face {
+	font-family: 'Rock Salt';	 
+	font-style: bold;
+	font-style: normal;
+
+}
+
+
+body {
+	max-width: 100%;
+	background-color: #030303;
+}
+
+
+.dave {
+	width: 40%;
+	height: auto;
+	margin-left: 50%;
+	margin-top: 1%;
+	opacity: 35%;
+	position: fixed;
+	z-index: -1;
+	transition: 2s;
+}
+
+
+.blackbox {
+	width: 100%;
+	height: auto;
+	background-color: black;
+	margin-top: 80%;
+	padding-top: 80%;
+	padding-bottom: 40%;
+	z-index: 1;
+	position: absolute;
+
+}
+
+
+.firstname h1 {
+	font-family: 'Rock Salt' ;
+	font-size: 130px;
+	height: auto;
+	color: white;
+	margin-top: 10%;
+	margin-left: 8%;
+	position: fixed;
+	transition: 2s;
+}
+
+
+.lastname h1{
+	font-family: 'Rock Salt' ;
+	font-size: 130px;
+	height: auto;
+	color: white;
+	margin-top: 23%;
+	margin-left: 21%;
+	position: fixed;
+	transition: 2s;
+}
+
+
+
+.title1 {
+	font-family: 'Russo One';
+	font-size: 48px;
+	font-style: normal;
+	color: white;
+	position: absolute;
+	margin-top: 95%;
+	margin-left: 7%;
+	margin-right: 10%;
+	z-index: 1;
+	text-align: center;
+}
+
+
+.earlylife {
+	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 128%;
+	margin-left: 10%;
+	z-index: 2;
+}
+

@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Rock.CO Personal use';
+    src: url('RockCOPersonaluse-DEMO.eot');
+    src: url('RockCOPersonaluse-DEMO.eot?#iefix') format('embedded-opentype'),
+        url('RockCOPersonaluse-DEMO.woff2') format('woff2'),
+        url('RockCOPersonaluse-DEMO.woff') format('woff'),
+        url('RockCOPersonaluse-DEMO.ttf') format('truetype'),
+        url('RockCOPersonaluse-DEMO.svg#Rock.COPersonaluse-DEMO') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HandScribbleSketchRock';
+    src: url('HandScribbleSketchRock-Bold.eot');
+    src: url('HandScribbleSketchRock-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HandScribbleSketchRock-Bold.woff2') format('woff2'),
+        url('HandScribbleSketchRock-Bold.woff') format('woff'),
+        url('HandScribbleSketchRock-Bold.ttf') format('truetype'),
+        url('HandScribbleSketchRock-Bold.svg#HandScribbleSketchRock-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HandScribbleSketchRockL';
+    src: url('HandScribbleSketchRockL-Light.eot');
+    src: url('HandScribbleSketchRockL-Light.eot?#iefix') format('embedded-opentype'),
+        url('HandScribbleSketchRockL-Light.woff2') format('woff2'),
+        url('HandScribbleSketchRockL-Light.woff') format('woff'),
+        url('HandScribbleSketchRockL-Light.ttf') format('truetype'),
+        url('HandScribbleSketchRockL-Light.svg#HandScribbleSketchRockL-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HandScribbleSketchRock';
+    src: url('HandScribbleSketchRock.eot');
+    src: url('HandScribbleSketchRock.eot?#iefix') format('embedded-opentype'),
+        url('HandScribbleSketchRock.woff2') format('woff2'),
+        url('HandScribbleSketchRock.woff') format('woff'),
+        url('HandScribbleSketchRock.ttf') format('truetype'),
+        url('HandScribbleSketchRock.svg#HandScribbleSketchRock') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
