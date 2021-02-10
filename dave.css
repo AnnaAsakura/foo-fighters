@@ -112,11 +112,11 @@ body {
 
 
 .blue1  {
-	width: 33%;
-	height: 70%;
+	width: 31%;
+	height: 67%;
 	position: absolute;
-	margin-top: 125%;
-	margin-left: 59%;
+	margin-top: 125.3%;
+	margin-left: 59.6%;
 	z-index: 3;
 }
 
@@ -346,4 +346,58 @@ body {
 	z-index: 2;
 	margin-top: 286%;
 	margin-left: 47%;
+}
+
+
+.red1 {
+	width: 10%;
+	height: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 153%;
+	margin-left: 26%;
+}
+
+
+
+.orange1 {
+	width: 10%;
+	height: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 167.5%;
+	margin-left: 3%;
+
+}
+
+
+.blue7 {
+	width: 10%;
+	height: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 178%;
+	margin-left: 83%;
+}
+
+
+
+.red2 {
+	width: 10%;
+	height: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 274.5%;
+	margin-left: 61%
+}
+
+
+
+.orange2 {
+	width: 10%;
+	height: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 296%;
+	margin-left: 73.5%;
 }
