@@ -419,4 +419,23 @@ body {
 	position: absolute;
 	z-index: 2;
 }
+
+
+
+.link {
+	font-family: 'Russo One';
+	font-size: 30px;
+	color: white;
+	width: 5.3%;
+	height: auto;
+	position: absolute;
+	z-index: 3;
+	margin-top: 0%;
+	margin-left: 1.9%;
+
+}
+
+
+a {
+	color: white ;
 }
