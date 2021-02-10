@@ -203,3 +203,61 @@ body {
 	margin-top: 208%;
 	margin-left: 11.4%;
 }
+
+
+
+.foo2 {
+	width: 34%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 217%;
+	margin-left: 62%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+
+.foo3 {
+	width: 55%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 238%;
+	margin-left: 22%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+	text-align: center;
+}
+
+
+
+.personal {
+	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 258%;
+	margin-left: 20%;
+	z-index: 2;
+}
+
+
+.personalp {
+	font-family: 'Lato';
+	font-size: 18PX;
+	width: 47%;
+	color: white;
+	position: absolute;
+	z-index: 1;
+	margin-top: 265%;
+	margin-left: 8%;
+	display: inline-block;
+}
