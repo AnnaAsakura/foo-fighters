@@ -54,7 +54,7 @@ body {
 	background-color: black;
 	margin-top: 80%;
 	padding-top: 80%;
-	padding-bottom: 182%;
+	padding-bottom: 160%;
 	z-index: 1;
 	position: absolute;
 
@@ -253,11 +253,123 @@ body {
 .personalp {
 	font-family: 'Lato';
 	font-size: 18PX;
+	opacity: 80%;
 	width: 47%;
 	color: white;
 	position: absolute;
 	z-index: 1;
 	margin-top: 265%;
-	margin-left: 8%;
+	margin-left: 6%;
 	display: inline-block;
+}
+
+
+
+.red4 {
+	width: 36%;
+	height: 46%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 260%;
+	margin-left: 58%;
+}
+
+
+.kid {
+	width: 27%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 263%;
+	margin-left: 63%;
+}
+
+
+
+.red5 {
+	width: 26%;
+	height: 62%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 286%;
+	margin-left: 51%;
+} 
+
+
+.wife {
+	width: 18%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 289%;
+	margin-left: 55%;
+}
+
+
+.blue1 {
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 137%;
+	margin-left: 62%;
+}
+
+
+.orange1 {
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 170%;
+	margin-left: 87%;
+}
+
+
+.blue2 {
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 247%;
+	margin-left: 80%;
+}
+
+
+
+.orange2 {
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 290%;
+	margin-left: 38%;
+}
+
+
+.red6 {
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 235%;
+	margin-left: 5%;
+}
+
+
+
+.link {
+	font-family: 'Russo One';
+	font-size: 30px;
+	color: white;
+	width: 5.3%;
+	height: auto;
+	position: absolute;
+	z-index: 3;
+	margin-top: 1.9%;
+	margin-left: 1.9%;
+
+}
+
+
+a {
+	color: white ;
 }
