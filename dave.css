@@ -36,7 +36,7 @@ body {
 	background-color: black;
 	margin-top: 80%;
 	padding-top: 80%;
-	padding-bottom: 80%;
+	padding-bottom: 200%;
 	z-index: 1;
 	position: absolute;
 
@@ -88,14 +88,14 @@ body {
 	position: absolute;
 	font-size: 35px;
 	margin-top: 128%;
-	margin-left: 7%;
+	margin-left: 6%;
 	z-index: 2;
 }
 
 
 
 .earlylife p {
-	width: 45vw;
+	width: 46vw;
 	font-family: 'Lato';
 	color: white;
 	opacity: 80%;
@@ -103,6 +103,7 @@ body {
 	position: absolute;
 	margin: 0;
 	padding-top: 30px;
+	padding-right: 30px;
 	display: inline-block;
 	line-height: 160%;
 
@@ -143,7 +144,7 @@ body {
 
 
 .band  {
-	width: 60vw;
+	width: 60%;
 	font-family: 'Lato';
 	color: white;
 	opacity: 80%;
@@ -167,7 +168,7 @@ body {
 	height: 53%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 185.3%;
+	margin-top: 187.3%;
 	margin-left: 4%;
 }
 
@@ -177,6 +178,130 @@ body {
 	height: 42%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 188.4%;
+	margin-top: 190.4%;
 	margin-left: 7.8%;
 }
+
+
+
+.band2 {
+	width: 30%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	display: inline-block;
+	z-index: 2;
+	margin-top: 191%;
+	margin-left: 61%;
+	line-height: 160%
+
+}
+
+
+.title2 {
+	font-family: 'Permanent Marker';
+	font-size: 35px;
+	color: white;
+	position: absolute;
+	z-index: 2;
+	margin-top: 219%;
+	margin-left: 14%;
+}
+
+
+
+.foofighters {
+	width: 45%;
+	font-family: 'Lato';
+	font-size: 18px;
+	color: white;
+	opacity: 80%;
+	line-height: 160%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 225%;
+	margin-left: 8%;
+}
+
+
+.foo1 {
+	width: 28%;
+	height: 70%;
+	position: absolute;
+	z-index: 3;
+	margin-left: 64%;
+	margin-top: 218%;
+}
+
+
+.blue3 {
+	width: 36%;
+	height: 83%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 214.4%;
+	margin-left: 59.8%;
+}
+
+
+.daveshow {
+	width: 46%;
+	height: 58%;
+	position: absolute;
+	z-index: 3;
+	margin-top: 245%;
+	margin-left: 6%;
+}
+
+
+.blue4 {
+	width: 53%;
+	height: 69%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 242%;
+	margin-left: 2.8%;
+}
+
+
+
+.foofighters2 {
+	width: 27%;
+	font-family: 'Lato';
+	line-height: 160%;
+	color: white;
+	opacity: 80%;
+	position: absolute;
+	margin-top: 264%;
+	margin-left: 65.2%;
+	z-index: 2;
+	display: inline-block;
+}
+
+
+.title3 {
+	font-family: 'Permanent Marker';
+	font-size: 35px;
+	color: white;
+	position: absolute;
+	z-index: 2;
+	margin-top: 283%;
+	margin-left: 20%;	
+}
+
+
+
+.personal {
+	width: 46%;
+	font-family: 'Lato';
+	color: white;
+	position: absolute;
+	line-height: 160%;
+	margin-top: 289%;
+	margin-left: 7%;
+	z-index: 2;
+	display: inline-block;
+}
+	
