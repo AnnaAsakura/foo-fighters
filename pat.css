@@ -29,7 +29,7 @@ body {
 	background-color: black;
 	margin-top: 80%;
 	padding-top: 80%;
-	padding-bottom: 160%;
+	padding-bottom: 182%;
 	z-index: 1;
 	position: absolute;
 
@@ -255,7 +255,7 @@ body {
 	font-size: 18px;
 	position: absolute;
 	margin-top: 258%;
-	margin-left: 21%;
+	margin-left: 20%;
 	display: inline-block;
 	line-height: 160%;
 	z-index: 1;
@@ -263,15 +263,160 @@ body {
 
 
 .foo2 {
-	width: 45%;
+	width: 40%;
 	font-family: 'Lato';
 	color: white;
 	opacity: 80%;
 	font-size: 18px;
 	position: absolute;
 	margin-top: 271%;
-	margin-left: 7%;
+	margin-left: 5%;
 	display: inline-block;
 	line-height: 160%;
 	z-index: 1;
+}
+
+
+.orange5 {
+	width: 32%;
+	height: 39%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 267%;
+	margin-left: 49%;
+}
+
+
+.orange6{
+	width: 32%;
+	height: 40%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 291%;
+	margin-left: 65%;
+}
+
+
+
+.foo7 {
+	width: 27%;
+	position: absolute;
+	z-index: 2;
+	margin-left: 51.4%;
+	margin-top: 269%;
+}
+
+
+.foo6 {
+	width: 27%;
+	position: absolute;
+	z-index: 2;
+	margin-left: 67.5%;
+	margin-top: 293%;
+}
+
+
+.foo5 {
+	width: 48%;
+	position: absolute;
+	z-index: 2;
+	margin-left: 8%;
+	margin-top: 299%;
+}
+
+
+.orange7 {
+	width: 54%;
+	height: 70%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 296.5%;
+	margin-left: 5%;
+}
+
+
+.reunion {
+	width: 31%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 316%;
+	margin-left: 65%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+.red1 {
+	width: 10%;
+	height: 20%;
+	margin-top: 178%;
+	margin-left: 11%;
+	position: absolute;
+	z-index: 2
+}
+
+
+.blue1 {
+	width: 10%;
+	height: 20%;
+	margin-top: 197%;
+	margin-left: 1%;
+	position: absolute;
+	z-index: 2;
+}
+
+
+.blue3 {
+	width: 10%;
+	height: 20%;
+	margin-top: 278%;
+	margin-left: 83%;
+	position: absolute;
+	z-index: 2;
+}
+
+
+.red3 {
+	width: 10%;
+	height: 20%;
+	margin-top: 241%;
+	margin-left: 62%;
+	position: absolute;
+	z-index: 2;
+}
+
+
+.blue2 {
+	width: 10%;
+	height: 20%;
+	margin-top: 237%;
+	margin-left: 58%;
+	position: absolute;
+	z-index: 2;
+}
+
+
+
+.orange8 {
+	width: 10%;
+	height: 20%;
+	margin-top: 257%;
+	margin-left: 8%;
+	position: absolute;
+	z-index: 2;
+}
+
+
+.red2 {
+	width: 10%;
+	height: 20%;
+	margin-top: 328%;
+	margin-left: 62%;
+	position: absolute;
+	z-index: 2;
+}
 }
