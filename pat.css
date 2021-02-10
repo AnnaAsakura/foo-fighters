@@ -1,6 +1,138 @@
-* {box-sizing: border-box;}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;}
 
 
 body {
 	max-width: 100%;
+	background-color: #030303
+
+}
+
+
+.pat {
+	width: 28%;
+	height: auto;
+	margin-left: 56%;
+	margin-top: 1%;
+	opacity: 56%;
+	position: fixed;
+	z-index: -1;
+	transition: 2s;
+}
+
+
+.blackbox {
+	width: 100%;
+	height: auto;
+	background-color: black;
+	margin-top: 80%;
+	padding-top: 80%;
+	padding-bottom: 160%;
+	z-index: 1;
+	position: absolute;
+
+}
+
+
+.firstname h1 {
+	font-family: 'Rock Salt' ;
+	font-size: 130px;
+	height: auto;
+	color: white;
+	margin-top: 10%;
+	margin-left: 8%;
+	position: fixed;
+	transition: 2s;
+}
+
+
+.lastname h1{
+	font-family: 'Rock Salt' ;
+	font-size: 130px;
+	height: auto;
+	color: white;
+	margin-top: 23%;
+	margin-left: 21%;
+	position: fixed;
+	transition: 2s;
+}
+
+
+.quote {
+	font-family: 'Russo One';
+	font-size: 48px;
+	font-style: normal;
+	color: white;
+	position: absolute;
+	margin-top: 95%;
+	margin-left: 8%;
+	margin-right: 10%;
+	z-index: 1;
+	text-align: center;
+}
+
+
+ .earlylife {
+ 	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 128%;
+	margin-left: 60%;
+	z-index: 2;
+ }
+
+
+
+ .earlylifep {
+	width: 45%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 133%;
+	margin-left: 45%;
+	display: inline-block;
+	text-align: center;
+	line-height: 160%;
+	z-index: 1;
+
+}
+
+
+.earlylife2 {
+	width: 45%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 141%;
+	margin-left: 45%;
+	display: inline-block;
+	text-align: center;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+.orange1 {
+	width: 31%;
+	height: 54%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 133%;
+	margin-left: 7%;
+}
+
+
+.young {
+	width: 25%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 136%;
+	margin-left: 9.8%;
 }
