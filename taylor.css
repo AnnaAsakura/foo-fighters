@@ -111,7 +111,7 @@ body {
 	opacity: 80%;
 	font-size: 18px;
 	position: absolute;
-	margin-top: 146%;
+	margin-top: 150%;
 	margin-left: 45%;
 	display: inline-block;
 	text-align: center;
@@ -121,19 +121,85 @@ body {
 
 
 .red1 {
-	width: 31%;
-	height: 68%;
+	width: 32%;
+	height: 68.2%;
 	position: absolute;
 	z-index: 1;
-	margin-top: 144%;
-	margin-left: 10%;
+	margin-top: 144.3%;
+	margin-left: 8.5%;
 }
 
 
 .young {
-	width: 23%;
+	width: 22%;
 	position: absolute;
 	z-index: 1;
-	margin-top: 147%;
-	margin-left: 14.2%;
+	margin-top: 148%;
+	margin-left: 13.4%;
+}
+
+
+.foofighters {
+	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 176%;
+	margin-left: 44%;
+	z-index: 2;
+}
+
+
+
+.foo1 {
+	width: 45%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 183%;
+	margin-left: 10%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+
+.red2 {
+	width: 35%;
+	height: 53%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 183%;
+	margin-left: 61%;
+}
+
+
+.drums {
+	width: 26%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 186.3%;
+	margin-left: 66%;
+}
+
+
+.red3 {
+	width: 47%;
+	height: 53%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 205%;
+	margin-left: 8%;
+}
+
+
+.taylorfoo {
+	width: 40%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 208%;
+	margin-left: 11.4%;
 }
