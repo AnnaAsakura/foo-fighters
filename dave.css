@@ -15,6 +15,7 @@
 body {
 	max-width: 100%;
 	background-color: #030303;
+
 }
 
 
@@ -36,7 +37,7 @@ body {
 	background-color: black;
 	margin-top: 80%;
 	padding-top: 80%;
-	padding-bottom: 150%;
+	padding-bottom: 160%;
 	z-index: 1;
 	position: absolute;
 
@@ -268,14 +269,14 @@ body {
 
 
 .foofighters2 {
-	width: 27%;
+	width: 30%;
 	font-family: 'Lato';
 	line-height: 160%;
 	color: white;
 	opacity: 80%;
 	position: absolute;
-	margin-top: 264%;
-	margin-left: 65.2%;
+	margin-top: 262.2%;
+	margin-left: 63.2%;
 	z-index: 2;
 	display: inline-block;
 }
@@ -312,7 +313,7 @@ body {
 	height: 30%;
 	position: absolute;
 	z-index: 3;
-	margin-top: 275.4%;
+	margin-top: 277.4%;
 	margin-left: 76%;
 
 }
@@ -324,7 +325,7 @@ body {
 	height: 33%;
 	position: absolute;
 	z-index: 3;
-	margin-top: 288.6%;
+	margin-top: 290.6%;
 	margin-left: 49.8%;
 }
 
@@ -334,7 +335,7 @@ body {
 	height: 38%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 273%;
+	margin-top: 275%;
 	margin-left: 73%;
 }
 
@@ -344,7 +345,7 @@ body {
 	height: 42%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 286%;
+	margin-top: 288%;
 	margin-left: 47%;
 }
 
@@ -387,7 +388,7 @@ body {
 	height: 18%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 274.5%;
+	margin-top: 276.5%;
 	margin-left: 61%
 }
 
@@ -398,6 +399,11 @@ body {
 	height: 18%;
 	position: absolute;
 	z-index: 2;
-	margin-top: 296%;
+	margin-top: 298%;
 	margin-left: 73.5%;
 }
+
+
+
+
+
