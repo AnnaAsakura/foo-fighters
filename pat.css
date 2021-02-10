@@ -96,7 +96,6 @@ body {
 	margin-top: 133%;
 	margin-left: 45%;
 	display: inline-block;
-	text-align: center;
 	line-height: 160%;
 	z-index: 1;
 
@@ -135,4 +134,144 @@ body {
 	z-index: 2;
 	margin-top: 136%;
 	margin-left: 9.8%;
+}
+
+
+.orange2 {
+	width: 44%;
+	height: 48%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 159%;
+	margin-left: 45%;
+}
+
+
+.germ {
+	width: 38%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 161.3%;
+	margin-left: 48%
+}
+
+
+.earlylife3 {
+	width: 31%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 168%;
+	margin-left: 7%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+.nirvana {
+	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 185%;
+	margin-left: 24%;
+	z-index: 2;
+}
+
+
+.nirvana2 {
+	width: 44%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 191%;
+	margin-left: 12%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+.orange3 {
+	width: 36%;
+	height: 80%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 191%;
+	margin-left: 60%;
+}
+
+
+.patnirvana {
+	width: 30%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 193.8%;
+	margin-left: 63%;
+}
+
+
+.orange4 {
+	width: 48%;
+	height: 64%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 209%;
+	margin-left: 6%;
+}
+
+
+.patnirvana2 {
+	width: 42%;
+	height: 56%;
+	position: absolute;
+	z-index: 2;
+	margin-top: 211.3%;
+	margin-left: 9%;
+}
+
+
+.foofighters {
+	font-family: 'Permanent Marker';
+	color: white;
+	position: absolute;
+	font-size: 35px;
+	margin-top: 252%;
+	margin-left: 44%;
+	z-index: 2;
+}
+
+
+.foo1 {
+	width: 60%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 258%;
+	margin-left: 21%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
+}
+
+
+.foo2 {
+	width: 45%;
+	font-family: 'Lato';
+	color: white;
+	opacity: 80%;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 271%;
+	margin-left: 7%;
+	display: inline-block;
+	line-height: 160%;
+	z-index: 1;
 }
