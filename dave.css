@@ -13,8 +13,8 @@
 
 
 body {
-	max-width: 100vw;
-	max-height: 100vw;
+	max-width: 100%;
+	max-height: 100%;
 	background-color: #030303;
 
 }
@@ -430,3 +430,5 @@ a {
 	color: white ;
 }
 
+
+@media (min-width: 320px;)
